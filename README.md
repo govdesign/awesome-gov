@@ -13,6 +13,7 @@ The ultimate list of awesome (and still not) libraries and frameworks used for g
     - [Python](#python)
       - [Web framework](#frameworks)
       - [Text](#text)
+      - [Cryptography](#cryptography)
 
 
 ## Python
@@ -23,6 +24,9 @@ The ultimate list of awesome (and still not) libraries and frameworks used for g
 ### Text
 * [Chakert](https://github.com/SmartTeleMax/chakert) - Typograph for html and plain text
 * [Typod](https://github.com/SmartTeleMax/typod) - a typo corrector for sphinx
+
+### Cryptographoy
+* [PyGost](https://github.com/SmartTeleMax/pygost) — Pure python gost crypto implementation
 
 ## Frontend
 
