@@ -26,7 +26,7 @@ Rus: Удивительный список замечательных библи
 * [Chakert](https://github.com/SmartTeleMax/chakert) - Библиотека для работы с текстом, типограф (Typograph for html and plain text)
 * [Typod](https://github.com/SmartTeleMax/typod) - Библиотека и сервис для коррекции ошибок в поисковых решениях на базе sphinx (a typo corrector for sphinx)
 
-### Cryptographoy
+### Cryptography
 * [PyGost](https://github.com/SmartTeleMax/pygost) — Реализация криптографических алгоритмов семейства ГОСТ (Pure python gost crypto implementation)
 
 ## Frontend
