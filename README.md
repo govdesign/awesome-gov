@@ -32,7 +32,7 @@ Rus: Удивительный список замечательных библи
 ## Frontend
 
 ### Widgets
-* [MaSha](https://github.com/SmartTeleMax/MaSha) — Маша, особый виджет, используемый для облегчения выделения и передачи выделения по ссылке (MArk and SHAre library for marking and sharing)
+* [MaSha](https://github.com/SmartTeleMax/MaSha) — MASHA (сокращение от Mark & Share) – утилита, позволяющая отметить интересные вам фрагменты текста на странице и получить уникальный url с размеченными фрагментами. (MArk and SHAre library for marking and sharing)
 * [RussianMap](https://github.com/govdesign/map) — Карта России в SVG и библиотека для работы с ней (svg world map and a library for manipulation)
 
 ### Icons
