@@ -3,9 +3,9 @@
 
 Eng: The ultimate list of awesome (and still not) libraries and frameworks used for government and social needs. Inspired by  [awesome-python](https://github.com/vinta/awesome-python).
 
-Rus: Удивительный список замечательных библиотек и фреймворков, которые используются или могут использоваться для при работе с государственными или социальными проектами. 
+Rus: Cписок библиотек и фреймворков, которые используются или могут использоваться при работе с государственными или социальными проектами. 
 
-### Содержимое (Contents)
+### Содержание (Contents)
 
 - [Awesome Gov](#awesome-gov)
     - [Frontend](#frontend)
