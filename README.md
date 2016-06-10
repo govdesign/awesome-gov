@@ -8,13 +8,14 @@ Rus: Cписок библиотек и фреймворков, которые и
 ### Содержание (Contents)
 
 - [Awesome Gov](#awesome-gov)
-    - [Frontend](#frontend)
-      - [Widgets](#widgets)
-      - [Icons](#icons)
     - [Python](#python)
       - [Web framework](#frameworks)
       - [Text](#text)
       - [Cryptography](#cryptography)
+    - [Frontend](#frontend)
+      - [Widgets](#widgets)
+      - [Icons](#icons)
+      - [Accessibility](#accessibility)
 
 
 ## Python
@@ -37,3 +38,6 @@ Rus: Cписок библиотек и фреймворков, которые и
 
 ### Icons
 * [Heraldry](https://github.com/govdesign/symbols) - Герб России (The Russian heraldry)
+
+### Accessibility
+* [15Web - web-accessibility](https://github.com/15web/web-accessibility) — CSS и JS для создания версий сайтов для слабовидящих (Create a version of the site for people with disabilities quickly and easily) 
