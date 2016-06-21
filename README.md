@@ -10,6 +10,7 @@ Rus: Cписок библиотек и фреймворков, которые и
 - [Awesome Gov](#awesome-gov)
     - [Python](#python)
       - [Web framework](#frameworks)
+      - [Django apps and middlewares](#django)
       - [Text](#text)
       - [Cryptography](#cryptography)
     - [Frontend](#frontend)
@@ -21,7 +22,10 @@ Rus: Cписок библиотек и фреймворков, которые и
 ## Python
 
 ### Frameworks
-* [Iktomi](https://github.com/SmartTeleMax/iktomi) - Очень простой и красивый web framework, используется на некоторых крупных государственных сайтах России (the simple and pretty web framework)
+* [Iktomi](https://github.com/SmartTeleMax/iktomi) - Очень простой и красивый web framework, используется на некоторых крупных государственных сайтах России (the simple and pretty web framework. Python)
+
+### Django
+* [publication-backbone](https://github.com/Excentrics/publication-backbone) - Система управления публикациями в виде приложения для фреймворка [Django](https://www.djangoproject.com), есть документация по быстрому старту. Используется на сайте [Администрации города Белгорода](http://www.beladm.ru). (Flexible and scalable publications management system. Python, Django.)
 
 ### Text
 * [Chakert](https://github.com/SmartTeleMax/chakert) - Библиотека для работы с текстом, типограф (Typograph for html and plain text)
